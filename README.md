@@ -14,3 +14,6 @@ Book link: [![Book Badge](https://img.shields.io/badge/-PrincetonBook-grey?style
 
 
 *Thank you R.Sedgewick, K.Wayne, Princeton University for the sharing such goldest knowledge.*
+
+
+![Proof](https://github.com/ArtemUstinov/Algorithms_and_DS_Princeton_pt.1/blob/main/Final_proof.png)
